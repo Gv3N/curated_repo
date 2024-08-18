@@ -30,7 +30,7 @@ If you would like to contribute to any of these repositories, please follow the 
 
 ## Contact
 
-For any questions or inquiries, feel free to reach out to [Your Name](mailto:your.email@example.com).
+For any questions or inquiries, feel free to reach out to [Baktajivan](mailto:baktajivan@gmail.com).
 
 ---
 
